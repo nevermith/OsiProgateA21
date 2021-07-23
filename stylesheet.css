@@ -1,0 +1,21 @@
+.header{ 
+    height: 100px;
+    width: 100%;
+    background-color: greenyellow;
+    
+    top: 0;
+    z-index: 20;
+}
+ 
+.header-list {
+	float: right;
+	/*height: 50px;*/
+	padding: 2px 10px;
+}
+ 
+/*akhir header*/
+ 
+/*bagian menu*/
+.judul-konten {
+    text-align: center;
+}
